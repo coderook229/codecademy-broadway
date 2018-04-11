@@ -13,7 +13,7 @@ body {
 }
 
 .headings {
-
+  color: white;
 }
 
 h1 {
@@ -44,4 +44,10 @@ h3 {
 
 p {
   font-size: 14px;
+}
+
+.footer {
+  font-size: 11px;
+  background-color: dimgray;
+  text-align: left;
 }
